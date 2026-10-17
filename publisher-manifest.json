@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "afe86811983bf5f4d7159883",
+  "owner": "rybrewsmsrc",
+  "repo": "page-fef90da9144801b141cd4bb5",
+  "title": "辉夜",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fef90da9144801b141cd4bb5",
+      "a": "辉夜",
+      "b": "",
+      "entity": "辉夜",
+      "brand": "辉夜",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7209071084c65a07d645e024c4f68a4c77070b899c2269421350f1cb278805f1",
+      "content": {
+        "keyword1": "辉夜",
+        "keyword2": "",
+        "primary_entity": "辉夜",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "辉夜以冷静简短的文字，介绍一款面向日常与团队场景的网络工具，附带三档流量套餐、设备上限与高频问答。",
+          "AI_DESCRIPTION": "辉夜以冷静简短的文字，介绍一款面向日常与团队场景的网络工具，附带三档流量套餐、设备上限与高频问答。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:#0a0a0a;color:#e8e8e8;font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Microsoft YaHei\",\"Hiragino Sans GB\",\"Helvetica Neue\",Helvetica,Arial,sans-serif;line-height:1.65;font-size:16px;-webkit-font-smoothing:antialiased}\na{color:#b6ff3c;text-decoration:none;border-bottom:1px solid rgba(182,255,60,.25);transition:border-color .2s ease,color .2s ease}\na:hover{color:#d6ff7a;border-bottom-color:#d6ff7a}\nh1,h2,h3{font-weight:600;color:#f0f0f0;letter-spacing:-.01em;margin:0}\nh1{font-size:clamp(2.2rem,5.2vw,3.6rem);line-height:1.15}\nh2{font-size:clamp(1.5rem,2.8vw,2rem);line-height:1.25;margin-bottom:.6em;padding-bottom:.35em}\nh3{font-size:1.1rem;line-height:1.3;margin-bottom:.4em;color:#cfcfcf}\np{margin:0 0 1em;color:#cfcfcf}\nmain{max-width:920px;margin:0 auto;padding:64px 28px 96px}\nsection{margin:64px 0}\n.lead-paragraph{font-size:1.08rem;color:#dcdcdc;max-width:60ch;margin:1.2em 0 1.6em}\n.divider{height:1px;background:linear-gradient(to right,transparent,#2a2a2a,transparent);margin:48px 0;border:0}\n.kicker{display:inline-block;font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:#b6ff3c;margin-bottom:1.2em;border-left:2px solid #b6ff3c;padding-left:10px}\n.toc{display:flex;flex-wrap:wrap;gap:10px 18px;margin:28px 0 0;padding:14px 18px;border:1px dashed #2e2e2e;border-radius:14px;background:rgba(255,255,255,.015)}\n.toc a{font-size:.92rem;border-bottom:none;color:#b6ff3c}\n.toc a:hover{color:#d6ff7a}\n.subtitle{color:#9a9a9a;font-size:.95rem;margin-top:.6em}\nblockquote{margin:1.6em 0;padding:14px 22px;border-left:2px solid #b6ff3c;color:#bdbdbd;font-style:italic;background:rgba(182,255,60,.03);border-radius:0 10px 10px 0}\n.plans-wrap{overflow-x:auto;border-radius:18px;background:#131313;box-shadow:0 14px 40px rgba(0,0,0,.55)}\ntable.plans{width:100%;border-collapse:collapse;min-width:680px}\ntable.plans th,table.plans td{padding:18px 16px;text-align:left;border-bottom:1px solid #1f1f1f;vertical-align:top;font-size:.95rem}\ntable.plans thead th{background:#161616;color:#b6ff3c;font-weight:600;font-size:.85rem;letter-spacing:.08em;text-transform:uppercase}\ntable.plans tbody tr:last-child td{border-bottom:0}\ntable.plans td.price{color:#f0f0f0;font-weight:600}\ntable.plans td.annual{color:#9a9a9a;font-size:.86rem}\ntable.plans .featured-col{background:rgba(182,255,60,.06)}\ntable.plans .badge{display:inline-block;font-size:.7rem;letter-spacing:.1em;padding:3px 8px;border-radius:999px;background:#b6ff3c;color:#0a0a0a;margin-left:6px;vertical-align:middle}\n.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}\n@media (max-width:720px){.faq-grid{grid-template-columns:1fr}}\n.faq-card{background:#121212;border-radius:18px;padding:22px 24px;box-shadow:0 10px 30px rgba(0,0,0,.45)}\n.faq-card h3{color:#b6ff3c;font-size:.95rem;margin-bottom:.5em}\n.faq-card p{margin:0;font-size:.92rem;color:#c4c4c4}\n.steps{margin:0;padding:0;list-style:none;counter-reset:step}\n.steps li{counter-increment:step;position:relative;padding:18px 20px 18px 64px;background:#121212;border-radius:16px;margin-bottom:14px;box-shadow:0 8px 24px rgba(0,0,0,.4)}\n.steps li::before{content:counter(step,decimal-leading-zero);position:absolute;left:20px;top:18px;font-weight:600;color:#b6ff3c;font-size:1.1rem;background:rgba(182,255,60,.08);width:32px;height:32px;display:flex;align-items:center;justify-content:center;border-radius:8px}\n.steps li strong{display:block;color:#ededed;margin-bottom:.3em;font-weight:600}\n.steps li span{color:#a8a8a8;font-size:.92rem}\n.usage-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}\n@media (max-width:720px){.usage-grid{grid-template-columns:1fr}}\n.usage-card{background:#121212;border-radius:18px;padding:22px;box-shadow:0 8px 26px rgba(0,0,0,.4)}\n.usage-card h3{font-size:.98rem;color:#b6ff3c;margin-bottom:.5em}\n.usage-card p{margin:0;font-size:.9rem;color:#bababa}\nfooter{margin-top:80px;padding-top:24px;border-top:1px solid #1c1c1c;color:#6e6e6e;font-size:.82rem;display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between}\n.legal{margin-top:18px;font-size:.78rem;color:#5a5a5a;line-height:1.7}\n.legal dt{color:#888;font-weight:600;margin-top:.6em}\n.legal dd{margin:0 0 .4em 0}\n</style><main>\n<header>\n<span class=\"kicker\">NETWORK · 2025</span>\n<h1>辉夜：一篇关于网络通行的非典型手册</h1>\n<p class=\"subtitle\">写给第一次接触此类工具的人。也写给用了很多年、想要换一种描述方式的人。</p>\n<p class=\"lead-paragraph\">网络工具从来不缺花哨的承诺。辉夜选择用更短的句子说话。这份手册按顺序回答三件事：它是什么、它怎么用、它要付多少钱。剩下的，留给真正使用它的人去判断。</p>\n<nav class=\"toc\" aria-label=\"页内导航\">\n<a href=\"#what\">是什么</a>\n<a href=\"#how\">怎么用</a>\n<a href=\"#scenes\">使用场景</a>\n<a href=\"#plans\">流量套餐</a>\n<a href=\"#faq\">常见问题</a>\n<a href=\"#terms\">使用须知</a>\n</nav>\n</header>\n\n<hr class=\"divider\">\n\n<section id=\"what\">\n<span class=\"kicker\">PART 01</span>\n<h2>它是什么</h2>\n<p>辉夜是一类网络通行的辅助工具。它在你的设备和目标服务器之间建立一条加密通道，让数据在传输过程中具备更高的私密性。它不替你去访问任何内容，只是改变路径。</p>\n<p>它不存日志，不参与内容生产，也不替你做选择。它只负责把请求从 A 送到 B，再把回应从 B 带回 A。剩下的事情，交给浏览器、客户端和你自己。</p>\n<blockquote>工具是中性的。决定它价值的，是使用它的人，以及使用它的场景。</blockquote>\n</section>\n\n<hr class=\"divider\">\n\n<section id=\"how\">\n<span class=\"kicker\">PART 02</span>\n<h2>它怎么用</h2>\n<ol class=\"steps\">\n<li><strong>获取订阅</strong><span>购买套餐后，在账户面板复制一段订阅链接。这是一段以 https:// 开头的文本。</span></li>\n<li><strong>导入客户端</strong><span>把订阅链接粘贴到任意兼容客户端中，客户端会自动同步节点列表与流量额度。</span></li>\n<li><strong>选择节点</strong><span>按延迟、用途或地理位置选择入口和出口。日常浏览与流媒体推荐就近节点。</span></li>\n<li><strong>启用连接</strong><span>点击启用。状态指示器变为绿色时，代表通道已建立。</span></li>\n<li><strong>按需切换</strong><span>不需要时关闭，需要时再打开。通道的开闭完全由你控制。</span></li>\n</ol>\n</section>\n\n<hr class=\"divider\">\n\n<section id=\"scenes\">\n<span class=\"kicker\">PART 03</span>\n<h2>它适合什么场景</h2>\n<div class=\"usage-grid\">\n<article class=\"usage-card\">\n<h3>日常浏览</h3>\n<p>收发邮件、查阅文档、查询资料。把请求走加密通道，避免在公共网络中暴露明文。</p>\n</article>\n<article class=\"usage-card\">\n<h3>视频与音频</h3>\n<p>观看流媒体、收听播客、参与在线会议。选择就近节点，减少缓冲与卡顿。</p>\n</article>\n<article class=\"usage-card\">\n<h3>团队协作</h3>\n<p>多个成员同时在线，统一管理订阅与流量。适合远程办公与跨境协作的小型团队。</p>\n</article>\n</div>\n</section>\n\n<hr class=\"divider\">\n\n<section id=\"plans\">\n<span class=\"kicker\">PART 04</span>\n<h2>三档流量套餐</h2>\n<p>以下价格与权益为参考信息，请以下单页面与账户面板显示为准。所有套餐均提供月度与年度两种结算方式。</p>\n<div class=\"plans-wrap\">\n<table class=\"plans\" aria-label=\"辉夜流量套餐对比表\">\n<thead>\n<tr>\n<th>套餐</th>\n<th>月付</th>\n<th>年付</th>\n<th>流量</th>\n<th>设备</th>\n<th>节点与权益</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>基础版</td>\n<td class=\"price\">¥15 / 月</td>\n<td class=\"annual\">¥150 / 年</td>\n<td>每月 100 GB</td>\n<td>3 台设备</td>\n<td>解锁基础流媒体；普通线路节点池</td>\n</tr>\n<tr class=\"featured-col\">\n<td>旗舰版<span class=\"badge\">推荐</span></td>\n<td class=\"price\">¥35 / 月</td>\n<td class=\"annual\">¥350 / 年</td>\n<td>每月 300 GB</td>\n<td>5 台设备</td>\n<td>全节点原生流媒体解锁；IPLC 专线游戏加速优化；7×24 优先工单支持</td>\n</tr>\n<tr>\n<td>团队版</td>\n<td class=\"price\">¥85 / 月</td>\n<td class=\"annual\">¥850 / 年</td>\n<td>每月 1000 GB</td>\n<td>20 台设备</td>\n<td>VIP 专属高带宽节点；支持企业定制路由；专属客户经理服务</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>年度结算按 10 个月计费。流量不结转至下个计费周期。所有套餐均提供试用机制，具体规则以账户面板说明为准。</p>\n</section>\n\n<hr class=\"divider\">\n\n<section id=\"faq\">\n<span class=\"kicker\">PART 05</span>\n<h2>常见问题</h2>\n<div class=\"faq-grid\">\n<article class=\"faq-card\">\n<h3>一个订阅能在几台设备上使用？</h3>\n<p>取决于套餐。基础版上限 3 台，旗舰版上限 5 台，团队版上限 20 台。超过上限的设备将被自动拒绝接入。</p>\n</article>\n<article class=\"faq-card\">\n<h3>套餐内的流量用完会怎样？</h3>\n<p>当月流量耗尽后，通道会被暂停，不会产生额外费用。你可以选择升级套餐或等待下个计费周期重置。</p>\n</article>\n<article class=\"faq-card\">\n<h3>支持哪些客户端？</h3>\n<p>支持标准订阅协议的主流客户端。具体名称与版本请以账户面板内的「客户端下载」列表为准，请只使用列表内的来源。</p>\n</article>\n<article class=\"faq-card\">\n<h3>需要备案或实名吗？</h3>\n<p>购买时需要完成账户注册；具体是否需要实名信息，以购买页面提示为准。请如实填写，以便在出现账号问题时核验身份。</p>\n</article>\n<article class=\"faq-card\">\n<h3>是否支持退款？</h3>\n<p>是否提供退款以及退款的窗口期，取决于购买渠道与支付方式，请在下单前阅读对应页面的退款说明。</p>\n</article>\n<article class=\"faq-card\">\n<h3>连接速度受哪些因素影响？</h3>\n<p>本地带宽、节点距离、时段高峰、协议选择都会影响速度。遇到明显异常时，切换节点或更换协议通常可以改善。</p>\n</article>\n<article class=\"faq-card\">\n<h3>可以分享订阅给别人吗？</h3>\n<p>同一订阅下的设备数量受套餐限制。共享超出设备数将导致全部设备掉线，请按需选择合适的套餐或为他人另行购买。</p>\n</article>\n<article class=\"faq-card\">\n<h3>流量是怎么计算的？</h3>\n<p>按客户端实际发送与接收的数据量双向累计，单位为 GB。控制面板会实时显示已用流量与剩余流量。</p>\n</article>\n</div>\n</section>\n\n<hr class=\"divider\">\n\n<section id=\"terms\">\n<span class=\"kicker\">PART 06</span>\n<h2>使用须知</h2>\n<p>在开始使用之前，请阅读以下要点。它们不长，但每一条都关系到账号与通道的稳定性。</p>\n<dl class=\"legal\">\n<dt>合法用途</dt>\n<dd>请将辉夜用于合法的网络通信场景，避免用于任何违反所在地区法律法规的活动。</dd>\n<dt>账号安全</dt>\n<dd>订阅链接包含身份信息，请勿公开发布到公开论坛或群聊，避免被盗用。</dd>\n<dt>客户端来源</dt>\n<dd>请只从账户面板提供的客户端列表中下载，不要使用来路不明的修改版或破解版。</dd>\n<dt>节点使用</dt>\n<dd>节点负载较高时，请主动切换至其他可用节点，公平使用有助于维持整体服务质量。</dd>\n<dt>计费规则</dt>\n<dd>以账户面板显示的计费规则为准。如有疑问，可在工单中联系服务人员核实。</dd>\n</dl>\n</section>\n\n<footer>\n<span>© 辉夜 · 一份关于网络通行的非典型使用手册</span>\n<span>v 2025.01 · 内容仅作说明用途</span>\n</footer>\n</main>",
+          "hash": "289b72e2540b46102f36e2374eec02cd182db52d8c53f7d0c8788d3bd975d818",
+          "seo": {
+            "title": "辉夜 — 一份关于网络通行的非典型使用手册",
+            "keywords": "辉夜,网络工具,流量套餐,设备接入,节点路由,服务条款,常见问题",
+            "description": "辉夜以冷静简短的文字，介绍一款面向日常与团队场景的网络工具，附带三档流量套餐、设备上限与高频问答。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "2420",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tmhfw.cn",
+    "host": "p-5940b184d4.tmhfw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "bd5e5745765dade45cc9aeb9266c72a4b7540fd2d6549fc5f986939848ecb7a0",
+    "sitemap.xml": "85eb8d425dffe5495f1c133b5ad694f2ab6467ef65a117e11c76e2886e9527d4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6464b340e8dd3c1af0ae4f08b14e4c22e48357d1fe5d015edf50e2fceacefd86",
+    "robots.txt": "262949307ea933bb84320a831d83a292f94024e8464bc64487c8576df70e1224",
+    "536364a7634396deeec1811bc37b3f8d.txt": "6881f51004e55d42506bafc9961f38ae52ce56bbdd1cba49154d930b3d1f844f"
+  },
+  "revision": "cec8a48c21074c61b81691d750df827f5c05a4ac58117f81fb201bb0598043be"
+}
